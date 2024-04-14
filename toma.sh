@@ -1,0 +1,1 @@
+raspi2png -p estado1.png -w 432 -h 768
